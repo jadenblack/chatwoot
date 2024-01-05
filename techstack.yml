@@ -1,11 +1,12 @@
 repo_name: jadenblack/chatwoot
 report_id: 69808f5e07a7f4643a5157b4a035e630
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:22:39+00:00'
+timestamp: '2024-01-05T08:23:37+00:00'
 requested_by: scmmishra
 provider: github
 branch: develop
-detected_tools_count: 188
+detected_tools_count: 191
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/chatwoot
   detection_source: Repo Metadata
 - name: Liquid
   description: Open-source template language written in Ruby
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1746/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/chatwoot
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/.devcontainer/docker-compose.yml
   detection_source: ".devcontainer/docker-compose.yml"
   last_updated_by: Sojan Jose
   last_updated_on: 2020-12-09 11:31:28.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -74,6 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj S
   last_updated_on: 2023-06-26 18:27:16.000000000 Z
@@ -99,6 +105,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/docker-compose.yaml
   detection_source: docker-compose.yaml
   last_updated_by: Cadu Ribeiro
   last_updated_on: 2019-12-31 12:53:18.000000000 Z
@@ -111,6 +118,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -151,6 +159,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj S
   last_updated_on: 2023-06-26 18:27:16.000000000 Z
@@ -177,6 +186,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-02-21 03:12:45.000000000 Z
@@ -189,6 +199,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/25/amazon-s3.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -200,6 +211,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2023-10-13 03:54:50.000000000 Z
@@ -211,6 +223,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2023-10-13 03:54:50.000000000 Z
@@ -223,6 +236,7 @@ tools:
   category: Data Stores
   sub_category: PostgreSQL as a Service
   image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/.devcontainer/docker-compose.yml
   detection_source: ".devcontainer/docker-compose.yml"
   last_updated_by: Sojan Jose
   last_updated_on: 2020-12-09 11:31:28.000000000 Z
@@ -234,6 +248,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/.devcontainer/docker-compose.yml
   detection_source: ".devcontainer/docker-compose.yml"
   last_updated_by: Sojan Jose
   last_updated_on: 2020-12-09 11:31:28.000000000 Z
@@ -272,6 +287,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2023-07-21 15:11:51.000000000 Z
@@ -311,6 +327,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Pranav Raj S
   last_updated_on: 2023-07-06 01:32:55.000000000 Z
@@ -338,6 +355,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jadenblack/chatwoot
   detection_source: Repo Metadata
 - name: Docker Compose
   description: Define and run multi-container applications with Docker
@@ -348,6 +366,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/.devcontainer/docker-compose.yml
   detection_source: ".devcontainer/docker-compose.yml"
   last_updated_by: Sojan Jose
   last_updated_on: 2020-12-09 11:31:28.000000000 Z
@@ -360,6 +379,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sony Mathew
   last_updated_on: 2019-11-23 19:57:39.000000000 Z
@@ -372,6 +392,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -383,6 +404,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/chatwoot
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -392,6 +414,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/.github/workflows/lint_pr.yml
   detection_source: ".github/workflows/lint_pr.yml"
   last_updated_by: Sojan Jose
   last_updated_on: 2023-06-19 11:18:45.000000000 Z
@@ -418,6 +441,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/103/default_193410db3a7e419c7b436961bf41d733c7346b59.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2023-03-14 15:20:28.000000000 Z
@@ -429,6 +453,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -468,6 +493,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -521,6 +547,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -560,6 +587,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -571,6 +599,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj S
   last_updated_on: 2021-05-16 11:11:30.000000000 Z
@@ -582,6 +611,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -594,6 +624,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/app.json
   detection_source: app.json
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-08-28 13:50:35.000000000 Z
@@ -605,6 +636,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Customer Support Chat
   image_url: https://img.stackshare.io/service/11495/bEHgRrjA_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/docker-compose.yaml
   detection_source: docker-compose.yaml
   last_updated_by: Anto Dominic
   last_updated_on: 2020-01-26 18:30:13.000000000 Z
@@ -616,6 +648,7 @@ tools:
   category: Application Utilities
   sub_category: User Feedback as a Service
   image_url: https://img.stackshare.io/service/6063/logo_bg.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-02-21 03:12:45.000000000 Z
@@ -627,6 +660,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Pranav Raj S
   last_updated_on: 2022-07-18 19:03:06.000000000 Z
@@ -638,6 +672,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/config/environments/production.rb
   detection_source: config/environments/production.rb
   last_updated_by: Sony Mathew
   last_updated_on: 2020-05-02 17:59:09.000000000 Z
@@ -650,6 +685,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/docker-compose.yaml
   detection_source: docker-compose.yaml
   last_updated_by: Sony Mathew
   last_updated_on: 2019-11-23 19:57:39.000000000 Z
@@ -699,6 +735,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3926/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2022-07-15 02:51:59.000000000 Z
@@ -708,6 +745,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/public/404.html
   detection_source: public/404.html
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
@@ -747,6 +785,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/enterprise/lib/enterprise/integrations/openai_prompts/label_suggestion.txt
   detection_source: enterprise/lib/enterprise/integrations/openai_prompts/label_suggestion.txt
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-07-12 20:09:19.000000000 Z
@@ -769,6 +808,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1736/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/docker-compose.yaml
   detection_source: docker-compose.yaml
   last_updated_by: Cadu Ribeiro
   last_updated_on: 2019-12-31 12:53:18.000000000 Z
@@ -777,6 +817,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6281/ros.org
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/docker-compose.yaml
   detection_source: docker-compose.yaml
   last_updated_by: Sony Mathew
   last_updated_on: 2019-11-23 19:57:39.000000000 Z
@@ -789,6 +830,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/chatwoot
   detection_source: Repo Metadata
 - name: Turbolinks
   description: Makes navigating your web application faster
@@ -812,6 +854,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2019-12-10 04:59:35.000000000 Z
@@ -838,6 +881,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-09-21 12:25:54.000000000 Z
@@ -846,6 +890,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-06-05 13:26:15.000000000 Z
@@ -854,6 +899,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/package.json
   detection_source: package.json
   last_updated_by: Shivam Mishra
   last_updated_on: 2023-09-27 08:32:34.000000000 Z
@@ -1097,6 +1143,27 @@ tools:
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2022-09-01 15:53:57.000000000 Z
+- name: foreman
+  description: Process manager for applications with multiple components
+  package_url: https://rubygems.org/foreman
+  version: 0.87.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19171/default_74d70efce37b0089808c0189b3b911b14c326c76.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Sojan Jose
+  last_updated_on: 2022-07-15 02:51:59.000000000 Z
+  vulnerabilities:
+  - name: Foreman Transpilation Enables OS Command Injection
+    cve_id: CVE-2022-3874
+    cve_url: https://github.com/advisories/GHSA-9jfq-54vc-9rr2
+    detected_date: Sep 27
+    severity: critical
+    first_patched: 
 - name: geocoder
   description: Provides object geocoding
   package_url: https://rubygems.org/geocoder
@@ -2218,6 +2285,20 @@ tools:
   detection_source: package.json
   last_updated_by: Sivin Varghese
   last_updated_on: 2022-07-08 15:49:19.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shivam Mishra
+  last_updated_on: 2023-06-05 13:26:15.000000000 Z
 - name: jest-environment-jsdom
   description: Delightful JavaScript Testing
   package_url: https://www.npmjs.com/jest-environment-jsdom
@@ -2260,6 +2341,20 @@ tools:
   detection_source: package.json
   last_updated_by: Pranav Raj S
   last_updated_on: 2019-10-30 05:13:11.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 14.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/jadenblack/chatwoot/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shivam Mishra
+  last_updated_on: 2023-09-27 08:32:34.000000000 Z
 - name: markdown-it
   description: Markdown-it - modern pluggable markdown parser
   package_url: https://www.npmjs.com/markdown-it

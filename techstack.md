@@ -140,7 +140,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/chatwoot](https://github.com/jadenblack/chatwoot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|188<br/>Tools used|12/14/23 <br/>Report generated|
+|191<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -760,9 +760,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (117)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (120)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (67)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (68)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -783,6 +783,7 @@ Full tech stack [here](/techstack.md)
 |[down](https://rubygems.org/down)|v5.4.0|07/21/23|Sojan Jose |MIT|N/A|
 |[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v6.2.0|10/13/23|Sojan Jose |MIT|N/A|
 |[faker](https://rubygems.org/faker)|v3.2.0|09/01/22|Sojan Jose |MIT|N/A|
+|[foreman](https://rubygems.org/foreman)|v0.87.2|07/15/22|Sojan Jose |MIT|[CVE-2022-3874](https://github.com/advisories/GHSA-9jfq-54vc-9rr2) (Critical)|
 |[geocoder](https://rubygems.org/geocoder)|v1.8.1|10/27/20|Sojan Jose |MIT|N/A|
 |[gmail_xoauth](https://rubygems.org/gmail_xoauth)|v0.4.2|04/07/23|Vishnu Narayanan |Unlicense|N/A|
 |[google-cloud-storage](https://rubygems.org/google-cloud-storage)|v1.44.0|10/13/23|Sojan Jose |Apache-2.0|N/A|
@@ -835,7 +836,7 @@ Full tech stack [here](/techstack.md)
 |[wisper](https://rubygems.org/wisper)|v2.0.0|10/16/19|Sojan Jose |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (50)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (52)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -868,9 +869,11 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v5.0.0|09/27/23|Shivam Mishra |MIT|N/A|
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v9.17.0|09/27/23|Shivam Mishra |MIT|N/A|
 |[foundation-sites](https://www.npmjs.com/foundation-sites)|v6.5.3|07/08/22|Sivin Varghese |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|06/05/23|Shivam Mishra |MIT|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|10/03/23|Shivam Mishra |MIT|N/A|
 |[jest-serializer-vue](https://www.npmjs.com/jest-serializer-vue)|v2.0.2|10/03/23|Shivam Mishra |MIT|N/A|
 |[js-cookie](https://www.npmjs.com/js-cookie)|v2.2.1|10/30/19|Pranav Raj S |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v14.0.1|09/27/23|Shivam Mishra |MIT|N/A|
 |[markdown-it](https://www.npmjs.com/markdown-it)|v10.0.0|03/27/23|Shivam Mishra |MIT|[CVE-2022-21670](https://github.com/advisories/GHSA-6vfc-qv3f-vr6c) (Moderate)|
 |[md5](https://www.npmjs.com/md5)|v2.3.0|08/14/19|Pranav Raj Sreepuram |BSD-3-Clause|N/A|
 |[postcss-loader](https://www.npmjs.com/postcss-loader)|v3.0.0|10/03/23|dependabot[bot] |MIT|N/A|

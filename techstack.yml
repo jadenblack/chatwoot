@@ -2,7 +2,7 @@ repo_name: jadenblack/chatwoot
 report_id: 69808f5e07a7f4643a5157b4a035e630
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:23:37+00:00'
+timestamp: '2024-02-29T19:04:12+00:00'
 requested_by: scmmishra
 provider: github
 branch: develop
@@ -458,7 +458,7 @@ tools:
   last_updated_by: Pranav Raj Sreepuram
   last_updated_on: 2019-08-14 09:48:44.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.0
   license: MIT
@@ -1234,6 +1234,13 @@ tools:
   detection_source: Gemfile
   last_updated_by: Sojan Jose
   last_updated_on: 2023-05-06 05:14:52.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service Vulnerability in gRPC TCP Server (Posix-compatible platforms)
+    cve_id: CVE-2023-4785
+    cve_url: https://github.com/advisories/GHSA-p25m-jpj4-qcrr
+    detected_date: Feb 11
+    severity: high
+    first_patched: 1.54.3
 - name: hashie
   description: Hashie is a collection of classes and mixins that make hashes more
     powerful
@@ -1520,6 +1527,13 @@ tools:
   detection_source: Gemfile
   last_updated_by: Muhsin Keloth
   last_updated_on: 2023-10-08 12:25:03.000000000 Z
+  vulnerabilities:
+  - name: Rack CORS Middleware has Insecure File Permissions
+    cve_id: CVE-2024-27456
+    cve_url: https://github.com/advisories/GHSA-785g-282q-pwvx
+    detected_date: Feb 27
+    severity: moderate
+    first_patched: 
 - name: rack-mini-profiler
   description: Profiling toolkit for Rack applications with Rails integration
   package_url: https://rubygems.org/rack-mini-profiler

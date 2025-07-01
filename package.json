@@ -144,7 +144,7 @@
     "prettier": "^3.0.3",
     "rimraf": "^3.0.0",
     "size-limit": "^8.2.4",
-    "webpack-dev-server": "^3"
+    "webpack-dev-server": "^5"
   },
   "engines": {
     "node": "20.x",
